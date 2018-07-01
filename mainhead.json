@@ -1,0 +1,19 @@
+{
+  "short_name": "Converter",
+  "name": "Currency Converter",
+  "icons": [
+    {
+      "src": "pic/hacker3.png",
+      "type": "pic/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pic/hacker3.png",
+      "type": "pic/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "lang": "en-US",
+  "display": "standalone",
+}
